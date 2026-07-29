@@ -12,7 +12,7 @@
           "token.actions.githubusercontent.com:aud": "sts.amazonaws.com"
         },
         "StringLike": {
-          "token.actions.githubusercontent.com:sub": "repo:Ayotunde-Orintunsin/ci-cd-pipeline-aws:ref:refs/heads/main"
+          "token.actions.githubusercontent.com:sub": "repo:Ayotunde-Orintunsin@152226292/ci-cd-pipeline-aws@1305319509:ref:refs/heads/main"
         }
       }
     }
