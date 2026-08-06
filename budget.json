@@ -1,0 +1,9 @@
+{
+  "BudgetName": "portfolio-project-budget",
+  "BudgetLimit": {
+    "Amount": "10",
+    "Unit": "USD"
+  },
+  "TimeUnit": "MONTHLY",
+  "BudgetType": "COST"
+}
